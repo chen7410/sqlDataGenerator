@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1c2e505-abbb-440e-8a7f-77713000aa1f" name="Default Changelist" comment="add data files">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_13_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataGenerator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataGenerator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carMaker.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/country.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataGenerator/FileProcessing$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataGenerator/FileProcessing$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataGenerator/FileProcessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataGenerator/FileProcessing.class" afterDir="false" />
+    <list default="true" id="f1c2e505-abbb-440e-8a7f-77713000aa1f" name="Default Changelist" comment="add get random date">
       <change beforePath="$PROJECT_DIR$/src/outputFile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputFile.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/outputFile.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -136,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562343024594</updated>
-      <workItem from="1562343027725" duration="22622000" />
+      <workItem from="1562343027725" duration="23238000" />
     </task>
     <task id="LOCAL-00001" summary="add data files">
       <created>1562346990388</created>
@@ -152,11 +143,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562359500491</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add get random date">
+      <created>1562368413186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562368413186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22622000" />
+    <option name="totallyTimeSpent" value="23238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,7 +185,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32719547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22379604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22379604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -209,13 +207,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add data files" />
     <MESSAGE value="create table based on the given country and car maker" />
-    <option name="LAST_COMMIT_MESSAGE" value="create table based on the given country and car maker" />
+    <MESSAGE value="add get random date" />
+    <option name="LAST_COMMIT_MESSAGE" value="add get random date" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/outputFile.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

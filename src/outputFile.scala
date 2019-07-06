@@ -11,7 +11,6 @@ object FileProcessing {
     val OUTPUT_FILE = "table.txt"
     val NUM_RECORD = 100
     val RANDOM = new Random()
-//    val DateTimeFormatter = new DateTimeFormatter("YYY-MM-DD")
 
     var startDate =  LocalDate.now()
     var endDate = LocalDate.now()
@@ -42,7 +41,7 @@ object FileProcessing {
         val lines: List[String] = Source.fromFile(path).getLines.toList
         startDate = LocalDate.parse(lines(0).split(":")(1))
         endDate = LocalDate.parse(lines(1).split(":")(1))
-        println(startDate.toEpochDay)
+//        println(startDate.toEpochDay)
     }
 
     /**
